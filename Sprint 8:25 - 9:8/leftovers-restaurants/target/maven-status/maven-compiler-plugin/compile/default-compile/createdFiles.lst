@@ -1,0 +1,9 @@
+com/leftovers/restaurants/dao/AddressRepository.class
+com/leftovers/restaurants/dao/RestaurantDao.class
+com/leftovers/restaurants/RestaurantsApplication.class
+com/leftovers/restaurants/model/Restaurant.class
+com/leftovers/restaurants/dao/AddressDao.class
+com/leftovers/restaurants/model/Address.class
+com/leftovers/restaurants/controller/RestaurantController.class
+com/leftovers/restaurants/model/Food.class
+com/leftovers/restaurants/dao/RestaurantRepository.class
